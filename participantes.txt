@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "Alejandro",
+    "edad": 28,
+    "ciudad": "Madrid",
+    "estado_actual": "pareja",
+    "pareja": "Lucía",
+    "tentaciones": [
+      { "nombre": "Sofía", "edad": 25, "compatibilidad": 8 },
+      { "nombre": "Marta", "edad": 27, "compatibilidad": 6 }
+    ],
+    "infidelidades": 1
+  },
+  {
+    "nombre": "Lucía",
+    "edad": 26,
+    "ciudad": "Sevilla",
+    "estado_actual": "pareja",
+    "pareja": "Alejandro",
+    "tentaciones": [
+      { "nombre": "Carlos", "edad": 29, "compatibilidad": 7 },
+      { "nombre": "David", "edad": 26, "compatibilidad": 9 }
+    ],
+    "infidelidades": 0
+  },
+  {
+    "nombre": "Manuel",
+    "edad": 30,
+    "ciudad": "Barcelona",
+    "estado_actual": "soltero",
+    "pareja": null,
+    "tentaciones": [
+      { "nombre": "Claudia", "edad": 24, "compatibilidad": 10 },
+      { "nombre": "Noemí", "edad": 26, "compatibilidad": 8 }
+    ],
+    "infidelidades": 3
+  },
+  {
+    "nombre": "Sandra",
+    "edad": 27,
+    "ciudad": "Valencia",
+    "estado_actual": "pareja",
+    "pareja": "Diego",
+    "tentaciones": [
+      { "nombre": "Javi", "edad": 28, "compatibilidad": 9 }
+    ],
+    "infidelidades": 2
+  },
+  {
+    "nombre": "Diego",
+    "edad": 29,
+    "ciudad": "Bilbao",
+    "estado_actual": "pareja",
+    "pareja": "Sandra",
+    "tentaciones": [
+      { "nombre": "Laura", "edad": 25, "compatibilidad": 7 }
+    ],
+    "infidelidades": 0
+  },
+  {
+    "nombre": "Montoya",
+    "edad": 31,
+    "ciudad": "Málaga",
+    "estado_actual": "pareja",
+    "pareja": "Marina",
+    "tentaciones": [
+      { "nombre": "Paula", "edad": 26, "compatibilidad": 9 },
+      { "nombre": "Andrea", "edad": 27, "compatibilidad": 7 }
+    ],
+    "infidelidades": 1
+  }
+]

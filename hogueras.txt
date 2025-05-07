@@ -1,0 +1,44 @@
+[
+  {
+    "participante": "Alejandro",
+    "pareja_presente": "Lucía",
+    "tentacion_presente": "Sofía",
+    "reaccion": "molestia",
+    "decision": "seguir en pareja"
+  },
+  {
+    "participante": "Lucía",
+    "pareja_presente": "Alejandro",
+    "tentacion_presente": "Carlos",
+    "reaccion": "tristeza",
+    "decision": "dudas"
+  },
+  {
+    "participante": "Manuel",
+    "pareja_presente": null,
+    "tentacion_presente": "Claudia",
+    "reaccion": "interés",
+    "decision": "seguir conociéndola"
+  },
+  {
+    "participante": "Sandra",
+    "pareja_presente": "Diego",
+    "tentacion_presente": "Javi",
+    "reaccion": "culpa",
+    "decision": "seguir en pareja"
+  },
+  {
+    "participante": "Diego",
+    "pareja_presente": "Sandra",
+    "tentacion_presente": "Laura",
+    "reaccion": "indiferencia",
+    "decision": "dudas"
+  },
+  {
+    "participante": "Montoya",
+    "pareja_presente": "Marina",
+    "tentacion_presente": "Paula",
+    "reaccion": "sorpresa",
+    "decision": "dudas"
+  }
+]

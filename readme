@@ -1,0 +1,44 @@
+[PRIMERA VEZ EN EL EQUIPO]
+
+[MONGO]
+Instalar MongoDB Compass, crear BBDD con el nombre: IslaDB
+Crear 2 coleciónes en la BBDD: Hogueras (hogueras.txt) y Participantes (participantes.txt)
+
+[BACKEND]
+Instalar node, mongoose, express, cors, dotenv: npm install express mongoose dotenv cors nodemon
+Instalar nodemon: npm install --save-dev nodemon
+Si no funciona: npm install nodemon --save-dev
+Instalar node_modules en el proyecto: npm init -y
+
+
+
+SI TODO VA BIEN SALIDA DE CONSOLA:
+
+Servidor en marcha a http://localhost:5000 
+Conectado a MongoDB - IslaDB
+
+
+
+[COMANDAS]
+
+Arrancar el proyecto: npm run dev
+Parar: Ctrl + C
+
+
+
+[PRUEBAS]
+
+
+Descargar POSTMAN: https://www.postman.com/downloads/
+
+GET de ejemplo: GET http://localhost:5000/participantes
+
+POST de ejemplo: POST http://localhost:5000/hogueras
+Body (JSON):
+{
+  "participante": "Alejandro",
+  "pareja_presente": "Lucía",
+  "tentacion_presente": "Sofía",
+  "reaccion": "molestia",
+  "decision": "seguir en pareja"
+}
